@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+a, a:link, a:visited{
+    font-size: large;
+    text-decoration: none;
+    margin-left: 20px;
+}
+pre{
+    font-size: larger;
+    margin-left: 40px;
+}
