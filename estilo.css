@@ -1,7 +1,20 @@
 h1{
     text-align: center;
 }
-a, a:link, a:visited{
+a{
+    color: black;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 20px;
+}
+a:link{
+    color: black;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 20px;
+}
+a:visited{
+    color: black;
     font-size: large;
     text-decoration: none;
     margin-left: 20px;
